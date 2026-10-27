@@ -1,0 +1,7 @@
+audit.json
+frontend/screenshots/
+.env
+.env.*
+!.env.example
+node_modules/
+dist/
